@@ -1,5 +1,5 @@
 # Microsystem-Linux
-Microsystem Linux is an Puppy/Slackware based distro which runs on old computers.
+Microsystem Linux is an Puppy/Slackware based distro which is really lightweight
 
 ## Data files
 The files on the repo are generated files from the Puppy Remaster tool. This could be important or not.
